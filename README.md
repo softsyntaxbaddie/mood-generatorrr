@@ -40,7 +40,7 @@ Random module (import random)
 5. Repeat until the user types quit
 
 
-   6.Prints out the else clause if the mood given by user is not set
+ 6.Prints out the else clause if the mood given by user is not set
 
 
 
