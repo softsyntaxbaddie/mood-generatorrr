@@ -22,11 +22,11 @@ Random module (import random)
 
 2. Ask the user for their current mood:
 
- happy
+    happy
+ 
+    sad
 
- sad
-
- stressed
+    stressed
 
 
 
@@ -40,7 +40,7 @@ Random module (import random)
 5. Repeat until the user types quit
 
 
- 6.Prints out the else clause if the mood given by user is not set
+      6.Prints out the else clause if the mood given by user is not set
 
 
 
