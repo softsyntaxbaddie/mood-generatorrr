@@ -63,9 +63,7 @@ Encourages positivity and motivation for every mood
 
 💻 How to Run
 
-1. Clone the repository:
-
-git clone https://github.com/YOUR_USERNAME/excited-mood-generator.git
+1. Clone the repsitory
 
 
 2. Open randomised-mood-generator.py in VS Code or any Python IDE
